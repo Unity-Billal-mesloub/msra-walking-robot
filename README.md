@@ -1,5 +1,4 @@
 # Walking Robot Examples
-### Copyright 2017-2019 The MathWorks, Inc.
 
 This repository contains example files for the following [MATLAB and Simulink Robotics Arena](https://www.mathworks.com/academia/student-competitions/tutorials-videos.html) videos on walking robots.
 
@@ -43,4 +42,5 @@ them from the Add-On Explorer, or on the File Exchange
 
 * Simscape Multibody Multiphysics Library: https://www.mathworks.com/matlabcentral/fileexchange/37636-simscape-multibody-multiphysics-library
 * Simscape Multibody Contact Forces Library: https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library
+
 
